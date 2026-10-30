@@ -1,0 +1,17 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+*.pyc
+__pycache__/
+
+# IDE and local machine files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Simulation output
+*.ulg
+*.bag
+*.db3
